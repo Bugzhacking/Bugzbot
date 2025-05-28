@@ -1,6 +1,6 @@
 <h1 align="center"><b>тнє нєℓℓвσт</b></h1>
 
-<p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The HellBot"></p>
+<p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The Bugzbot"></p>
 
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
@@ -139,7 +139,7 @@ Should you require assistance, kindly engage with our support group for communit
 
 > Thank you for choosing our bot and for your understanding and adherence.
 
-~ Team HellBot ❤️
+~ Team Bugzbot ❤️
 
 ---
 
